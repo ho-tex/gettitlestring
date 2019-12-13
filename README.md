@@ -1,0 +1,2 @@
+# gettitlestring
+gettitlestring for LaTeX

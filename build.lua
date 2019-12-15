@@ -23,7 +23,6 @@ tdslocations={
 "tex/generic/gettitlestring/gettitlestring.sty",
 }
 
-checkconfigs = {"build","config-plain"}
 
 function update_tag(file,content,tagname,tagdate)
 
